@@ -23,7 +23,7 @@ Style: Default - Title,House Holiday Sans,25,&H00FFFFFF,&H000000FF,&H00000000,&H
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:01:27.62,0:01:30.00,Default,,0,0,0,,Je suis grande depuis mon plus jeune âge.
-Dialogue: 0,0:01:30.00,0:01:32.69,Default,,0,0,0,,Quand on set met au rang pour l'assemblée,\Nje suis toujours derrière.
+Dialogue: 0,0:01:30.00,0:01:32.69,Default,,0,0,0,,Quand on se met au rang pour l'assemblée,\Nje suis toujours derrière.
 Dialogue: 0,0:01:33.42,0:01:35.84,Default,,0,0,0,,Mais il se trouve que mon nom est Koizumi.
 Dialogue: 0,0:01:33.42,0:01:35.84,Default - Up,,0,0,0,,{\fad(200,290)}(Koizumi signifie « petite source »)
 Dialogue: 0,0:01:35.82,0:01:39.16,Default - Up,,0,0,0,,{\fad(320,290)}(Oizumi signifie « grande source »)
